@@ -1,1 +1,7 @@
-# ebuka-gaus.github.io
+# Data Scientist and ML Engineer
+
+### Education
+Computer Statistics, Bsc
+
+### Projects
+
